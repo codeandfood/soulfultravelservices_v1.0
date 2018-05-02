@@ -98,7 +98,7 @@
                             </button>
                             <a class="navbar-brand ripple-group" href="#top">
                                 <div class="navbar-logo pull-left">
-                                    <img src="../../duoto/images/logo.jpg" alt="logo" width="30px" />
+                                    <img src="img/logo.jpg" alt="logo" width="30px" />
                                 </div>
                                 <p class="pull-left font-second">Soulful Travel Services</p>
                             </a>
@@ -1193,7 +1193,7 @@ Pondichéry, Puducherry, India</p>
                 <!-- footer logo -->
                 <div class="footer-logo" style="
                 text-align:center;">
-                        <img src="../../duoto/images/logo.jpg" alt="logo" height="100px" />
+                        <img src="img/logo.jpg" alt="logo" height="100px" />
                     <p class="font-second">
                         Soulful Travel Services
                     </p>
