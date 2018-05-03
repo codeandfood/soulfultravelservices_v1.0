@@ -395,14 +395,14 @@ Our team with in-depth knowledge specializes in offering customized travel exper
                     <ul id="portfolio-container" class="portfolio-container real-gapped colored-mask masonry clearlist row portfolio-hover-effect">
                         <li class="portfolio-item photo video col-sm-6 col-md-4 col-xs-12">
                             <div class="portfolio-item-img">
-                                <img src="https://i.ytimg.com/vi/b8fOr4mbCzk/maxresdefault.jpg" alt="portfolio" />
+                                <img src="img/backgrounds/tailor_made_tours.jpg" alt="portfolio" />
                             </div>
                             <div class="portfolio-item-info font-second">
                                 <h3 class="portfolio-item-title">Tailor-Made Tours</h3>
                                 <div class="portfolio-item-detail">
                                     <!--<p>apiente accusantium fugiat</p>-->
                                     <!-- LightBox Button -->
-                                    <a href="https://i.ytimg.com/vi/b8fOr4mbCzk/maxresdefault.jpg" title="Tailor-Made Tours" class="icon-magnifying-glass lightbox" data-lightbox-gallery="gallery1"></a>
+                                    <a href="img/backgrounds/tailor_made_tours.jpg" title="Tailor-Made Tours" class="icon-magnifying-glass lightbox" data-lightbox-gallery="gallery1"></a>
                                     <!--/ End LightBox Button -->
                                     <!--<a href="project_page.html" class="animsition-link icon-attachment"></a>-->
                                 </div>
@@ -806,7 +806,7 @@ Our team with in-depth knowledge specializes in offering customized travel exper
                 <div class="container">
                     <div class="section-title">
                         <div class=" section-title-more">
-                            how is our work
+                            you see
                         </div>
                         <div>
                             <h1 class="section-title-heading"><span>Why</span> us</h1>
@@ -1106,7 +1106,7 @@ We believe it
                         <div class="col-sm-4">
                             <div class="contact-item margin-bottom-xs-40"><i class="icon-phone"></i>
                                 <p>Phone: +91 733 916 3880
-                                    <br />Fax: (555) 987-6543</p>
+                                    <br /></p>
                             </div>
                         </div>
                         <div class="col-sm-4">
@@ -1124,7 +1124,7 @@ Pondichéry, Puducherry, India</p>
                     </div>
                     <div class="row">
                         <div class="col-md-offset-1 col-md-10">
-                            <form id="ajax-contact" class="" method="post" action="">
+                            <form id="ajax-contact" class="" method="post" action="mailer.php">
                                 <fieldset>
                                     <div class="row">
                                         <div class="input col-xs-12 col-sm-12 padding-bottom-xs-50 padding-bottom-40">
@@ -1218,7 +1218,7 @@ Pondichéry, Puducherry, India</p>
                 <!--/ End go top pop-up -->
                 <div class="footer-bottom">
                     <!-- Copyright -->
-                    <a class="footer-bottom-text font-second" href="" target="_blank">Soulful Travel Services © 2015. All Right Reserved.</a>
+                    <a class="footer-bottom-text font-second" href="" target="_blank">Soulful Travel Services © 2018. All Right Reserved.</a>
                     <!-- End Copyright -->
                 </div>
             </footer>
